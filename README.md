@@ -4,7 +4,7 @@ This repository contains all the code for SSTIA Python workshop. It has 3 parts 
 
 # Instructions
 
-the wksp resources are designed to be completed during the workshop, but also available for you to complete at your own pace even without attending the workshop.(but I'd appreciate it if you could attend) 
+The wksp resources are designed to be completed during the workshop, but also available for you to complete at your own pace even without attending the workshop.(but I'd appreciate it if you could attend) 
 
 ## Opening the workshop in Google Colaboratory
 
